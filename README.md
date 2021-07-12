@@ -15,22 +15,20 @@
 - ✨ Hobbies: I absolutely love reading, writing & painting.
 <br/>  
 
-## My Skill Set  
+## 🧰 My Skill Set  
 <div align="center">
 <img src="https://github.com/saniyakolangde/saniyakolangde/blob/main/techno%20stack.jpg?raw=true" align="center" height="550" width="660" />
 </div>   
 <br/>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saniyakolangde&show_icons=true&count_private=true&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" align="center" /></div>  
+## 📈 My Github Stats  
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saniyakolangde&theme=monokai&show_icons=true" align="center" /></div>  
 <br/>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniyakolangde&hide_border=true&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" align="center" /></div>  
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniyakolangde&theme=monokai&show_icons=true" align="center" /></div>  
 <br/>  
 
-## Connect with me  
+## 📩 Connect with me  
 <div align="center">
 <a href="https://github.com/saniyakolangde" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -48,7 +46,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## ✍🏻 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 Coming Soon! 
 <!-- BLOG-POST-LIST:END -->  
