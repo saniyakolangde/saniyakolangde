@@ -1,4 +1,4 @@
-![alt text](https://github.com/saniyakolangde/saniyakolangde/blob/main/header.png?raw=true)
+![alt text](https://github.com/saniyakolangde/saniyakolangde/blob/main/header.gif?raw=true)
 
 ## &#x1f4c8; GitHub Stats
 
