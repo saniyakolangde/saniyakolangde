@@ -48,7 +48,7 @@
 
 ## ✍🏻 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-1. [A Simple Image Classification Project To Kickstart your Deep Learning Journey!] (https://www.analyticsvidhya.com/blog/2021/07/image-classification-project-to-kickstart-your-deep-learning-journey/)
+1. [A Simple Image Classification Project To Kickstart your Deep Learning Journey!](https://www.analyticsvidhya.com/blog/2021/07/image-classification-project-to-kickstart-your-deep-learning-journey/)
 <!-- BLOG-POST-LIST:END -->  
 <br/>  
 
