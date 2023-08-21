@@ -2,11 +2,11 @@
 <img src="https://github.com/saniyakolangde/saniyakolangde/blob/main/header.gif?raw=true" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Saniya, a full-time Computer Science student 👩🏻‍💼</div>  
+### <div align="center">I'm Saniya, a full-time Artificial Intelligence student 👩🏻‍💼</div>  
 
-- 🔭 I’m currently working with Al Futtaim Group as a Data Science Intern
+- 🔭 I’m currently working with Monash DeepNeuron as a part of the Deep Learning team.
 
-- 🌱 I’m currently learning Swift and R Programming. 
+- 🌱 I’m currently learning Reinforcement Learning. 
 
 - 💻 I often write blogs related to Data Science and InfoSec.  
 
